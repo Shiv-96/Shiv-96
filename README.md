@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kshiv.dot@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1HICh71Ny3-xjxqHeGKcg3BUbQXq7QrAF)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MYNd24ohnsN8qGSlVuPpJP1EYnzP6D1W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
