@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Project**
 
-- 👨‍💻 All of my projects are available at [Portfolio](Shiv-96.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shiv-96.github.io/)
 
 - 📫 How to reach me **kshiv.dot@gmail.com**
 
