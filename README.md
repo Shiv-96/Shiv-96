@@ -36,3 +36,5 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="shiv-96" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-96&theme=dark" alt="shiv-96" /></p>
+
+<a href="https://github.com/shiv-96"><img alt="Shiv Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shiv-96&custom_title=Shiv's%20Contribution%20Graph&theme=react-dark" /></a>
