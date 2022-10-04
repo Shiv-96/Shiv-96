@@ -1,6 +1,5 @@
-<!-- [![MasterHead](https://images.unsplash.com/photo-1648393847044-0f31992a9ea2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=230&q=280)](https:Shiv-96.io) -->
+[![MasterHead](https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/TheDeveloperCoverLetter-1600x618.jpg)](https:Shiv-96.io) 
 
-<p align="center"> <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" alt="github" /> </p>
 
 <h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
 <h3 align="center">Dedicated and efficient full stack Java Developer</h3>
