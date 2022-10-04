@@ -1,8 +1,11 @@
 [![MasterHead](https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/TheDeveloperCoverLetter-1600x618.jpg)](https:Shiv-96.io) 
 
 
-<h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
-<h3 align="center">Dedicated and efficient full stack Java Developer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Shiv Kumar</h1> -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Shiv+Kumar..!;+Java-Backend+Developer..." alt="Typing SVG" /></a>
+
+<h3 align="center">Quick learner and aspiring Java Developer with core knowledge of Java, Spring Boot, SQL. Looking forward to enhance my skill and work as a software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv-96&label=Profile%20views&color=0e75b6&style=flat" alt="shiv-96" /> </p>
 
