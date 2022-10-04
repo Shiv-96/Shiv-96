@@ -38,3 +38,5 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-96&theme=dark" alt="shiv-96" /></p>
 
 <a href="https://github.com/shiv-96"><img alt="Shiv Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shiv-96&custom_title=Shiv's%20Contribution%20Graph&theme=react-dark" /></a>
+
+![snake gif](https://github.com/shiv-96/shiv-96/blob/output/github-contribution-grid-snake.svg)
