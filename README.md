@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Java Backend Project
 
-- 🌱 I’m currently learning **Sql, DataBase, Hybernate**
+- 🌱 I’m currently learning **Sql, DataBase, JDBC, Hybernate**
 
 - 👯 I’m looking to collaborate on **Backend Project**
 
