@@ -41,4 +41,4 @@
 
 <a href="https://github.com/shiv-96"><img alt="Shiv Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shiv-96&bg_color=3d3438&color=85474e&line=a96aa5&point=000000&area=true&hide_border=true" /></a>
 
-![snake gif](https://github.com/shiv-96/shiv-96/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shiv-96/shiv-96/blob/output/github-contribution-grid-snake.gif)
