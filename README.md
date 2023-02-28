@@ -33,12 +33,34 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="100" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="100" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" width="100" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="100" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mssql" width="100" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="100" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" width="100" height="40"/> </a> <a href="[https://spring.io/](https://spring.io/projects/spring-boot)" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring-boot" width="100" height="40"/> </a> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="shiv-96" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="shiv-96" /></p>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/<shiv-96>/repo1" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 150px; width: 350px;">
+  </a>
+  <a href="https://github.com/<shiv-96>/repo2" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 150px; width: 350px;">
+  </a>
+  <a href="https://github.com/<shiv-96>/repo3" style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-96&theme=dark" alt="GitHub stars" style="height: 150px; width: 350px;">
+  </a>
+</div>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-96&theme=dark" alt="shiv-96" /></p>
 
+
+
+<!-- <div style="display: flex; justify-content: center;">
+  <a href="https://github.com/<username>/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 200px; width: 200px;>
+  </a>
+  <a href="https://github.com/<username>/repo2">
+    <img src="https://github-readme-stats.vercel.app/api?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 200px; width: 200px;>
+  </a>
+  <a href="https://github.com/<username>/repo3">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-96&theme=dark" alt="GitHub stars" style="height: 200px; width: 200px;>
+  </a>
+</div>
+ -->
 <a href="https://github.com/shiv-96"><img alt="Shiv Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shiv-96&bg_color=3d3438&color=85474e&line=a96aa5&point=000000&area=true&hide_border=true" /></a>
 
 ![snake gif](https://github.com/shiv-96/shiv-96/blob/output/github-contribution-grid-snake.gif)
