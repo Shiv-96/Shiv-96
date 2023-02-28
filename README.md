@@ -49,18 +49,6 @@
 
 
 
-<!-- <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/<username>/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 200px; width: 200px;>
-  </a>
-  <a href="https://github.com/<username>/repo2">
-    <img src="https://github-readme-stats.vercel.app/api?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 200px; width: 200px;>
-  </a>
-  <a href="https://github.com/<username>/repo3">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-96&theme=dark" alt="GitHub stars" style="height: 200px; width: 200px;>
-  </a>
-</div>
- -->
 <a href="https://github.com/shiv-96"><img alt="Shiv Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shiv-96&bg_color=3d3438&color=85474e&line=a96aa5&point=000000&area=true&hide_border=true" /></a>
 
 ![snake gif](https://github.com/shiv-96/shiv-96/blob/output/github-contribution-grid-snake.gif)
