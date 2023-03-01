@@ -35,11 +35,12 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/<shiv-96>/repo1" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 150px; width: 250px;">
-  </a>
+  
   <a href="https://github.com/<shiv-96>/repo2" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 150px; width: 250px;">
+  </a>
+  <a href="https://github.com/<shiv-96>/repo1" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiv-96&show_icons=true&locale=en&theme=dark" alt="GitHub stars" style="height: 150px; width: 250px;">
   </a>
   <a href="https://github.com/<shiv-96>/repo3" style="flex: 1;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-96&theme=dark" alt="GitHub stars" style="height: 150px; width: 250px;">
