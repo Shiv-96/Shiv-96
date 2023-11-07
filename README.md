@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Shiv+Kumar..!;+Java-Backend+Developer..." alt="Typing SVG" /></a>
 
-<h3 align="center">Quick learner and aspiring Java Developer with core knowledge of Java, Spring Boot, SQL. Looking forward to enhance my skill and work as a software Developer</h3>
+<h3 align="center">Dedicated and efficient full-stack Java developer proficient in application layers, presentation layers, and databases. Certified in both front-end and backend technology. Highly motivated to continuously expand my knowledge and adapt to new technology.</h3>
 
 <h2 align="left">Visitor Count &nbsp &nbsp &nbsp <img align="center" src="https://profile-counter.glitch.me/Shiv-96/count.svg"/></h2>
 
