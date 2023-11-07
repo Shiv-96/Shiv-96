@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Java Backend Project
 
-- 🌱 I’m currently learning **Sql, DataBase, JDBC, Hybernate**
+- 🌱 I’m currently learning **SQL, DataBase, JDBC, Hibernate**
 
 - 👯 I’m looking to collaborate on **Backend Project**
 
@@ -22,7 +22,7 @@
 
 <hr>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MYNd24ohnsN8qGSlVuPpJP1EYnzP6D1W/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1O8ZG7DksA2tV2fFf2s7rAJ1gqzHSNmav/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
