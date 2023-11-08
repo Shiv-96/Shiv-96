@@ -11,9 +11,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on Java Backend Project
-
-- 🌱 I’m currently learning **SQL, DataBase, JDBC, Hibernate**
-
+  
 - 👯 I’m looking to collaborate on **Backend Project**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shiv-96.github.io/)
@@ -46,10 +44,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-96&theme=dark" alt="GitHub stars" style="height: 150px; width: 250px;">
   </a>
 </div>
-
-
-
-
-<a href="https://github.com/shiv-96"><img alt="Shiv Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shiv-96&bg_color=3d3438&color=85474e&line=a96aa5&point=000000&area=true&hide_border=true" /></a>
 
 ![snake gif](https://github.com/shiv-96/shiv-96/blob/output/github-contribution-grid-snake.gif)
