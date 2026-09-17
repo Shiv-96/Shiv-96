@@ -1,37 +1,225 @@
-[![MasterHead](https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/TheDeveloperCoverLetter-1600x618.jpg)](https:Shiv-96.io) 
+<h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+Shiv+Kumar..!;+Java-Backend+Developer..." alt="Typing SVG" /></a>
+<h3 align="center">
+  Java Backend Developer | Spring Boot | REST APIs | MySQL
+</h3>
 
-<h3 align="center">Dedicated and efficient full-stack Java developer proficient in application layers, presentation layers, and databases. Certified in both front-end and backend technology. Highly motivated to continuously expand my knowledge and adapt to new technology.</h3>
-
-<h2 align="left">Visitor Count &nbsp &nbsp &nbsp <img align="center" src="https://profile-counter.glitch.me/Shiv-96/count.svg"/></h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv-96&layout=compact&theme=algolia" alt="shiv-96" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on Java Backend Project
-  
-- 👯 I’m looking to collaborate on **Backend Project**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://shiv-96.github.io/)
-
-- 📫 How to reach me **kshiv.dot@gmail.com**
-
-<hr>
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1O8ZG7DksA2tV2fFf2s7rAJ1gqzHSNmav/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shiv-kumar-355a83216" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shiv-kumar-355a83216" height="30" width="100" /></a>
-<a href="https://www.leetcode.com/shiv_1996" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="shiv_1996" height="30" width="100" /></a>
+<p align="center">
+  Dedicated and efficient Java developer passionate about backend development,
+  clean code and continuously learning new technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="100" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="100" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" width="100" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="100" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mssql" width="100" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="100" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" width="100" height="40"/> </a> <a href="[https://spring.io/](https://spring.io/projects/spring-boot)" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring-boot" width="100" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://shiv-96.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="mailto:kshiv.dot@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/shiv-kumar-355a83216">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/shiv_1996">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shiv-96&theme=github-compact)
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiv-96)
+---
 
-![snake gif](https://github.com/shiv-96/shiv-96/blob/output/github-contribution-grid-snake.gif)
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Java Backend Projects**
+- 🌱 Currently learning and improving my **Spring Boot & Backend Development** skills
+- 👯 Looking to collaborate on **Java / Backend Projects**
+- 💻 All of my projects are available on my **Portfolio**
+- 📚 Continuously expanding my knowledge of modern technologies
+- 📫 Reach me at **kshiv.dot@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1O8ZG7DksA2tV2fFf2s7rAJ1gqzHSNmav/view?usp=sharing)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,python,git,github,vscode,idea" />
+
+</p>
+
+---
+
+## 💻 Backend Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Statistics"
+    width="495"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    width="330"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Shiv-96/Shiv-96/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Shiv-96/Shiv-96/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/Shiv-96/Shiv-96/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</picture>
+
+</p>
+
+---
+
+# 🚀 What I'm Currently Focusing On
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring%20Boot-Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST-APIs-009688?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/MySQL-Database-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
+
+---
+
+# 📂 My Projects
+
+<p align="center">
+
+<a href="https://shiv-96.github.io/">
+<img
+  src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-2ea44f?style=for-the-badge"
+  alt="Portfolio"
+/>
+</a>
+
+</p>
+
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1O8ZG7DksA2tV2fFf2s7rAJ1gqzHSNmav/view?usp=sharing">
+
+<img
+  src="https://img.shields.io/badge/📄%20View%20Resume-4285F4?style=for-the-badge"
+  alt="Resume"
+/>
+
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shiv-kumar-355a83216">
+<img
+  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+</a>
+
+&nbsp;
+
+<a href="https://www.leetcode.com/shiv_1996">
+<img
+  src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  alt="LeetCode"
+/>
+</a>
+
+&nbsp;
+
+<a href="mailto:kshiv.dot@gmail.com">
+<img
+  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Gmail"
+/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Quick Facts
+
+| Category | Details |
+|---|---|
+| 👨‍💻 Role | Java Backend Developer |
+| ☕ Primary Language | Java |
+| 🌱 Currently Learning | Spring Boot & Backend Development |
+| 🗄️ Database | MySQL |
+| 🔧 Backend | Spring / Spring Boot / REST APIs |
+| 🤝 Collaboration | Backend Projects |
+| 🌐 Portfolio | [shiv-96.github.io](https://shiv-96.github.io/) |
+
+---
+
+<h3 align="center">
+  Thanks for visiting my profile! 🚀
+</h3>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects.
+</p>
